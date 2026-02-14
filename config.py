@@ -1,3 +1,2 @@
-# Other settings...
-SPOILER_VALENTINE = True
-COMPLIMENTS = ["You're special!","You are loved!","You are amazing!","Your smile brightens the day!"]
+# Added SPOILER_VALENTINE setting
+SPOILER_VALENTINE = '2026-02-14 00:06:13'
